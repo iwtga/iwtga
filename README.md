@@ -6,3 +6,5 @@
 I'm Alan Almeida, a second year Computer Engineering student. I spend most of my time solving programming problems and contributing to open source.
 
 :mailbox: Reach me out!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Alan%20Almeida-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-almeida-43281b1a0//) [![Mail Badge](https://img.shields.io/badge/-Alan%20Almeida-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:alan241093@gmail.com)
