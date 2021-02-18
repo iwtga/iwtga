@@ -4,7 +4,7 @@
 
 - 🎓  I'm a sophomore at FRCRCE Mumbai, pursuing B.E. (Hons.) in Computer Engineering.
 - 🌱 I'm currently learning Web Development.
-- In my spare time I love to solve coding problems on codewars. This is my profile [![Codewars Badge](https://www.codewars.com/users/iwtga/badges/micro)](https://www.codewars.com/users/iwtga)
+- :computer: In my spare time I love to solve coding problems on [codewars.com](https://www.codewars.com/).
 
 :mailbox: Reach me out!
 
