@@ -6,7 +6,7 @@
 - 🌱 I'm currently learning Web Development.
 - :computer: In my spare time I love to solve challenging problems on [codewars.com](https://www.codewars.com/).
 - :goal_net: My Goal for 2021 is to contribute to Open-Source projects.
-
+h
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alan%20Almeida-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-almeida-43281b1a0//) [![Mail Badge](https://img.shields.io/badge/-Alan%20Almeida-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:alan241093@gmail.com) [![Codewars Badge](https://www.codewars.com/users/iwtga/badges/micro)](https://www.codewars.com/users/iwtga)
