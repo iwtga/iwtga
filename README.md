@@ -12,7 +12,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Alan%20Almeida-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-almeida-43281b1a0//) [![Mail Badge](https://img.shields.io/badge/-Alan%20Almeida-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:alan241093@gmail.com) [![Codewars Badge](https://www.codewars.com/users/iwtga/badges/micro)](https://www.codewars.com/users/iwtga)
 
 ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwtga&show_icons=true&theme=merko)
-![](https://github-readme-streak-stats.herokuapp.com/?user=iwtga&show_icons=true&theme=merko)
+<!--- ![](https://github-readme-streak-stats.herokuapp.com/?user=iwtga&show_icons=true&theme=merko) --->
 
 ## My Followers
 <!--START_SECTION:top-followers--><!--END_SECTION:top-followers-->
