@@ -2,7 +2,7 @@
 
 ## Hi There, I'm Alan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-- 🎓  I'm a sophomore at FRCRCE Mumbai, pursuing B.E. (Hons.) in Computer Engineering.
+- 🎓  I'm a sophomore at FRCRCE Mumbai, pursuing B.E. in Computer Engineering.
 - 🌱 I'm currently learning Web Development.
 - :computer: In my spare time I love to solve challenging problems on [codewars.com](https://www.codewars.com/).
 - :goal_net: My Goal for 2021 is to contribute more to Open-Source projects.
