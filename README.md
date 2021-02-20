@@ -40,18 +40,18 @@
       <a href="https://github.com/SoaresLance10">Lance Soares</a>
     </td>
     <td align="center">
-      <a href="https://github.com/warrenferns">
-        <img src="https://avatars2.githubusercontent.com/u/75610517" width="100px;" alt="warrenferns"/>
-      </a>
-      <br />
-      <a href="https://github.com/warrenferns">Warren Fernandes</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/rachel-ux">
         <img src="https://avatars2.githubusercontent.com/u/63053089" width="100px;" alt="rachel-ux"/>
       </a>
       <br />
       <a href="https://github.com/rachel-ux">rachel-ux</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/warrenferns">
+        <img src="https://avatars2.githubusercontent.com/u/75610517" width="100px;" alt="warrenferns"/>
+      </a>
+      <br />
+      <a href="https://github.com/warrenferns">Warren Fernandes</a>
     </td>
     <td align="center">
       <a href="https://github.com/a-1043161">
