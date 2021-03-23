@@ -33,18 +33,18 @@
       <a href="https://github.com/viren-vii">viren-vii</a>
     </td>
     <td align="center">
-      <a href="https://github.com/mkaustubh">
-        <img src="https://avatars2.githubusercontent.com/u/69445549" width="100px;" alt="mkaustubh"/>
-      </a>
-      <br />
-      <a href="https://github.com/mkaustubh">Kaustubh Mishra</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Irfan7014">
         <img src="https://avatars2.githubusercontent.com/u/57263241" width="100px;" alt="Irfan7014"/>
       </a>
       <br />
       <a href="https://github.com/Irfan7014">Syed Irfan Amjad Abidi</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mkaustubh">
+        <img src="https://avatars2.githubusercontent.com/u/69445549" width="100px;" alt="mkaustubh"/>
+      </a>
+      <br />
+      <a href="https://github.com/mkaustubh">Kaustubh Mishra</a>
     </td>
     <td align="center">
       <a href="https://github.com/SoaresLance10">
