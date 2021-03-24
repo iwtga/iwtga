@@ -33,18 +33,18 @@
       <a href="https://github.com/viren-vii">viren-vii</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Irfan7014">
-        <img src="https://avatars2.githubusercontent.com/u/57263241" width="100px;" alt="Irfan7014"/>
-      </a>
-      <br />
-      <a href="https://github.com/Irfan7014">Syed Irfan Amjad Abidi</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mkaustubh">
         <img src="https://avatars2.githubusercontent.com/u/69445549" width="100px;" alt="mkaustubh"/>
       </a>
       <br />
       <a href="https://github.com/mkaustubh">Kaustubh Mishra</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Irfan7014">
+        <img src="https://avatars2.githubusercontent.com/u/57263241" width="100px;" alt="Irfan7014"/>
+      </a>
+      <br />
+      <a href="https://github.com/Irfan7014">Syed Irfan Amjad Abidi</a>
     </td>
     <td align="center">
       <a href="https://github.com/SoaresLance10">
@@ -54,12 +54,21 @@
       <a href="https://github.com/SoaresLance10">Lance Soares</a>
     </td>
     <td align="center">
+      <a href="https://github.com/SaNDy4ortyFivE">
+        <img src="https://avatars2.githubusercontent.com/u/43074349" width="100px;" alt="SaNDy4ortyFivE"/>
+      </a>
+      <br />
+      <a href="https://github.com/SaNDy4ortyFivE">SaNDy4ortyFivE</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/warrenferns">
         <img src="https://avatars2.githubusercontent.com/u/75610517" width="100px;" alt="warrenferns"/>
       </a>
       <br />
       <a href="https://github.com/warrenferns">Warren Fernandes</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/rachel-ux">
         <img src="https://avatars2.githubusercontent.com/u/63053089" width="100px;" alt="rachel-ux"/>
@@ -67,8 +76,6 @@
       <br />
       <a href="https://github.com/rachel-ux">rachel-ux</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/a-1043161">
         <img src="https://avatars2.githubusercontent.com/u/71065561" width="100px;" alt="a-1043161"/>
