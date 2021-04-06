@@ -81,7 +81,7 @@
         <img src="https://avatars2.githubusercontent.com/u/63053089" width="100px;" alt="rachel-ux"/>
       </a>
       <br />
-      <a href="https://github.com/rachel-ux">rachel-ux</a>
+      <a href="https://github.com/rachel-ux">Rachel Sequeira</a>
     </td>
     <td align="center">
       <a href="https://github.com/a-1043161">
