@@ -47,13 +47,6 @@
       <a href="https://github.com/Irfan7014">Syed Irfan Amjad Abidi</a>
     </td>
     <td align="center">
-      <a href="https://github.com/SoaresLance10">
-        <img src="https://avatars2.githubusercontent.com/u/65091622" width="100px;" alt="SoaresLance10"/>
-      </a>
-      <br />
-      <a href="https://github.com/SoaresLance10">Lance Soares</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ayushtom">
         <img src="https://avatars2.githubusercontent.com/u/41674634" width="100px;" alt="ayushtom"/>
       </a>
@@ -61,20 +54,27 @@
       <a href="https://github.com/ayushtom">Ayush Tomar</a>
     </td>
     <td align="center">
-      <a href="https://github.com/SaNDy4ortyFivE">
-        <img src="https://avatars2.githubusercontent.com/u/43074349" width="100px;" alt="SaNDy4ortyFivE"/>
+      <a href="https://github.com/SoaresLance10">
+        <img src="https://avatars2.githubusercontent.com/u/65091622" width="100px;" alt="SoaresLance10"/>
       </a>
       <br />
-      <a href="https://github.com/SaNDy4ortyFivE">SaNDy4ortyFivE</a>
+      <a href="https://github.com/SoaresLance10">Lance Soares</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/warrenferns">
         <img src="https://avatars2.githubusercontent.com/u/75610517" width="100px;" alt="warrenferns"/>
       </a>
       <br />
       <a href="https://github.com/warrenferns">Warren Fernandes</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SaNDy4ortyFivE">
+        <img src="https://avatars2.githubusercontent.com/u/43074349" width="100px;" alt="SaNDy4ortyFivE"/>
+      </a>
+      <br />
+      <a href="https://github.com/SaNDy4ortyFivE">SaNDy4ortyFivE</a>
     </td>
     <td align="center">
       <a href="https://github.com/rachel-ux">
