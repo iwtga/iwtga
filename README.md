@@ -84,6 +84,13 @@
       <a href="https://github.com/rachel-ux">Rachel Sequeira</a>
     </td>
     <td align="center">
+      <a href="https://github.com/mayurgurav25">
+        <img src="https://avatars2.githubusercontent.com/u/79623783" width="100px;" alt="mayurgurav25"/>
+      </a>
+      <br />
+      <a href="https://github.com/mayurgurav25">mayurgurav25</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/a-1043161">
         <img src="https://avatars2.githubusercontent.com/u/71065561" width="100px;" alt="a-1043161"/>
       </a>
