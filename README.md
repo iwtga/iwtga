@@ -19,6 +19,13 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/KonradLinkowski">
+        <img src="https://avatars2.githubusercontent.com/u/26126510" width="100px;" alt="KonradLinkowski"/>
+      </a>
+      <br />
+      <a href="https://github.com/KonradLinkowski">Konrad Linkowski</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/orvil1026">
         <img src="https://avatars2.githubusercontent.com/u/58859056" width="100px;" alt="orvil1026"/>
       </a>
@@ -60,6 +67,8 @@
       <br />
       <a href="https://github.com/ayushtom">Ayush Tomar</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/SoaresLance10">
         <img src="https://avatars2.githubusercontent.com/u/65091622" width="100px;" alt="SoaresLance10"/>
@@ -67,8 +76,6 @@
       <br />
       <a href="https://github.com/SoaresLance10">Lance Soares</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/warrenferns">
         <img src="https://avatars2.githubusercontent.com/u/75610517" width="100px;" alt="warrenferns"/>
