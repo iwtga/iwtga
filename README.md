@@ -19,6 +19,13 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/yekoroglu27">
+        <img src="https://avatars2.githubusercontent.com/u/85195397" width="100px;" alt="yekoroglu27"/>
+      </a>
+      <br />
+      <a href="https://github.com/yekoroglu27">Yunus Emre KÖROĞLU</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/KonradLinkowski">
         <img src="https://avatars2.githubusercontent.com/u/26126510" width="100px;" alt="KonradLinkowski"/>
       </a>
@@ -60,6 +67,8 @@
       <br />
       <a href="https://github.com/ayushtom">Ayush Tomar</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/colindsouza777">
         <img src="https://avatars2.githubusercontent.com/u/68329666" width="100px;" alt="colindsouza777"/>
@@ -67,8 +76,6 @@
       <br />
       <a href="https://github.com/colindsouza777">colindsouza777</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/SoaresLance10">
         <img src="https://avatars2.githubusercontent.com/u/65091622" width="100px;" alt="SoaresLance10"/>
@@ -111,6 +118,8 @@
       <br />
       <a href="https://github.com/a-1043161">a-1043161</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Prachi250801">
         <img src="https://avatars2.githubusercontent.com/u/69117214" width="100px;" alt="Prachi250801"/>
