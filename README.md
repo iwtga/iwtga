@@ -4,7 +4,7 @@
 
 - 🎓  I'm a sophomore at FRCRCE Mumbai, pursuing B.E. in Computer Engineering.
 - 🌱 I'm currently learning Web Development.
-- :computer: In my spare time I love to solve challenging problems on [codewars.com](https://www.codewars.com/).
+- :computer: In my spare time I love to solve challenging problems on [codewars.com](https://www.codewars.com/) and contribute to [Wikipedia](https://en.wikipedia.org/wiki/Main_Page).
 - :goal_net: My Goal for 2021 is to contribute more to Open-Source projects.
 
 :mailbox: Reach me out!
