@@ -84,13 +84,6 @@
       <a href="https://github.com/warrenferns">Warren Fernandes</a>
     </td>
     <td align="center">
-      <a href="https://github.com/SaNDy4ortyFivE">
-        <img src="https://avatars2.githubusercontent.com/u/43074349" width="100px;" alt="SaNDy4ortyFivE"/>
-      </a>
-      <br />
-      <a href="https://github.com/SaNDy4ortyFivE">SaNDy4ortyFivE</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/rachel-ux">
         <img src="https://avatars2.githubusercontent.com/u/63053089" width="100px;" alt="rachel-ux"/>
       </a>
