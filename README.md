@@ -47,18 +47,18 @@
       <a href="https://github.com/mkaustubh">Kaustubh Mishra</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ayushtom">
-        <img src="https://avatars2.githubusercontent.com/u/41674634" width="100px;" alt="ayushtom"/>
-      </a>
-      <br />
-      <a href="https://github.com/ayushtom">Ayush Tomar</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Irfan7014">
         <img src="https://avatars2.githubusercontent.com/u/57263241" width="100px;" alt="Irfan7014"/>
       </a>
       <br />
       <a href="https://github.com/Irfan7014">Syed Irfan Amjad Abidi</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ayushtom">
+        <img src="https://avatars2.githubusercontent.com/u/41674634" width="100px;" alt="ayushtom"/>
+      </a>
+      <br />
+      <a href="https://github.com/ayushtom">Ayush Tomar</a>
     </td>
     <td align="center">
       <a href="https://github.com/colindsouza777">
