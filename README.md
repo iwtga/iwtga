@@ -84,6 +84,13 @@
       <a href="https://github.com/warrenferns">Warren Fernandes</a>
     </td>
     <td align="center">
+      <a href="https://github.com/yashsdeshmukh">
+        <img src="https://avatars2.githubusercontent.com/u/59757878" width="100px;" alt="yashsdeshmukh"/>
+      </a>
+      <br />
+      <a href="https://github.com/yashsdeshmukh">yashsdeshmukh</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/rachel-ux">
         <img src="https://avatars2.githubusercontent.com/u/63053089" width="100px;" alt="rachel-ux"/>
       </a>
@@ -111,6 +118,8 @@
       <br />
       <a href="https://github.com/a-1043161">a-1043161</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Prachi250801">
         <img src="https://avatars2.githubusercontent.com/u/69117214" width="100px;" alt="Prachi250801"/>
