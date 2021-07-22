@@ -47,18 +47,18 @@
       <a href="https://github.com/mkaustubh">Kaustubh Mishra</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Irfan7014">
-        <img src="https://avatars2.githubusercontent.com/u/57263241" width="100px;" alt="Irfan7014"/>
-      </a>
-      <br />
-      <a href="https://github.com/Irfan7014">Syed Irfan Amjad Abidi</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ayushtom">
         <img src="https://avatars2.githubusercontent.com/u/41674634" width="100px;" alt="ayushtom"/>
       </a>
       <br />
       <a href="https://github.com/ayushtom">Ayush Tomar</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Irfan7014">
+        <img src="https://avatars2.githubusercontent.com/u/57263241" width="100px;" alt="Irfan7014"/>
+      </a>
+      <br />
+      <a href="https://github.com/Irfan7014">Syed Irfan Amjad Abidi</a>
     </td>
     <td align="center">
       <a href="https://github.com/colindsouza777">
@@ -105,12 +105,21 @@
       <a href="https://github.com/mayurgurav25">mayurgurav25</a>
     </td>
     <td align="center">
+      <a href="https://github.com/jadenbutelho">
+        <img src="https://avatars2.githubusercontent.com/u/87058237" width="100px;" alt="jadenbutelho"/>
+      </a>
+      <br />
+      <a href="https://github.com/jadenbutelho">jadenbutelho</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/hackergod00001">
         <img src="https://avatars2.githubusercontent.com/u/54675828" width="100px;" alt="hackergod00001"/>
       </a>
       <br />
       <a href="https://github.com/hackergod00001">hackergod00001</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/a-1043161">
         <img src="https://avatars2.githubusercontent.com/u/71065561" width="100px;" alt="a-1043161"/>
@@ -118,8 +127,6 @@
       <br />
       <a href="https://github.com/a-1043161">a-1043161</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Prachi250801">
         <img src="https://avatars2.githubusercontent.com/u/69117214" width="100px;" alt="Prachi250801"/>
