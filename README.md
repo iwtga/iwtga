@@ -58,7 +58,7 @@
         <img src="https://avatars2.githubusercontent.com/u/57263241" width="100px;" alt="Irfan7014"/>
       </a>
       <br />
-      <a href="https://github.com/Irfan7014">Syed Irfan Amjad Abidi</a>
+      <a href="https://github.com/Irfan7014">Irfan Abidi</a>
     </td>
     <td align="center">
       <a href="https://github.com/colindsouza777">
