@@ -15,5 +15,4 @@ alan@kali:~# ./iwtga.sh
           Aspiring Developer • Open-Sourcerer • Pythoneer                    ^^^^      ^^^^     ^^^    ^^
                                                                                    ^^^^      ^^^
 ❯ 📬 Email             alan.almeida2010@hotmail.com
-❯ 🐦 Twitter           @alan_almeida24
 ```
