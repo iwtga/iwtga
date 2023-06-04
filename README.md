@@ -3,7 +3,7 @@
 
 ---
 
-```sh
+```console
 alan@kali:~# ./iwtga.sh
                                                                                     __|__ |___| |\
  ▄▄▄· ▄▄▌   ▄▄▄·  ▐ ▄      ▄▄▄· ▄▄▌  • ▌ ▄ ·. ▄▄▄ .▪  ·▄▄▄▄   ▄▄▄·                  |o__| |___| | \
@@ -14,5 +14,5 @@ alan@kali:~# ./iwtga.sh
                                                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~
           Aspiring Developer • Open-Sourcerer • Pythoneer                    ^^^^      ^^^^     ^^^    ^^
                                                                                    ^^^^      ^^^
-❯ 📬 Email             alan.almeida2010@hotmail.com
+❯ 📬 Email             alan[dot]almeida2010[at]hotmail[dot]com
 ```
